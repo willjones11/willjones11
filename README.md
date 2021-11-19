@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willjones11
 - 👀 I’m interested in Turbulence, Quantum Information, and Machine Learning
-- 🌱 I’m currently learning Plasma Turbulence, and Quiskit
+- 🌱 I’m currently learning Plasma Turbulence, and Qiskit
 - 📫 How to reach me will.jones11@hotmail.com
 
 <!---
