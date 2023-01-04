@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willjones11
-- 👀 I’m interested in Data Science and Data Mining 
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Spark 
 - 📫 How to reach me will.jones11@outlook.com and www.linkedin.com/in/williamfjones11/
 
